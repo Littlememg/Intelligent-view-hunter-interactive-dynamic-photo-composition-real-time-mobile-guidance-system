@@ -6,7 +6,7 @@ This implementation is tested on ```Tensorflow 1.3```.
 For viewing results using ```view_results.py```, you will need ```matplotlib```
 
 
-## Qucik Start
+## Quick Start
 
 VPN is demonstrated in ```demo_new.py```. Before running, update the following:
 
